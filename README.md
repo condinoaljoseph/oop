@@ -1,2 +1,3 @@
-# oop-notes
-My notes on oop
+# oop
+
+My notes on OOP
